@@ -1,1 +1,2 @@
 bot1 file content in detailed format.
+new line inserted file is modified.
